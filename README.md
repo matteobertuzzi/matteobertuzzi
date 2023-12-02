@@ -1,5 +1,4 @@
 # Hey, I am Matteo!
-Website: [https://mattsfitchef.com](https://mattsfitchef.com) | LinkedIn: [https://www.linkedin.com/in/matteo-bertuzzi-a6a059193/](https://www.linkedin.com/in/matteo-bertuzzi-a6a059193/)
 
 ## 🚀 About Me:
 
