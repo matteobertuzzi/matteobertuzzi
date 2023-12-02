@@ -1,6 +1,6 @@
-### Hey, I am Matteo!
+# Hey, I am Matteo!
 
-# 🚀 About Me:
+## 🚀 About Me:
 
 Greetings! I'm Matteo Bertuzzi, a 23-year-old Marketing Automation Manager and aspiring Full-Stack Web Developer. As a student of International Marketing and Management, I bring a global perspective to my work.
 
