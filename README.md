@@ -2,23 +2,23 @@
 
 ## 🚀 About Me:
 
-Greetings! I'm Matteo Bertuzzi, 23-year-old Blogger and junior Full-Stack Web Developer. As a student of International Marketing and Management, I bring a global perspective to my work.
+Greetings! I'm Matteo Bertuzzi, 23-year-old junior Full-Stack Web Developer and passionate Blogger. Most importantly, I am a lifelong learner, seeing education and curiosity as the engine for growth.
+
+## 🌐 Full Stack Web Development:
+
+Driven by a lifelong passion for technology and coding, my interest and curiosity lead me to pursuing academic education in the field of full-stack software development. During my training, I gained in-depth knowledge and experience in both front-end and back-end technologies, amongst which Javascript, React and Python. The completion of my academic education let me hungry for more, for growing my knowledge and experience in the realm of full-stack web development. The field I want to build my career and thrive in.
 
 ## 💼 Professional Skills:
 
-Working in the field of Marketing Automation and CRM management and blogger, I have advanced knowledge in the realms of SEO, Social Media Marketing, Email Marketing, and Customer Relationship Management (software). My technical proficiency includes HTML, CSS, and Javascript, which is growing day-by-day during my studies as a full-stack developer. With a knack for website development and WordPress customization, I am passionate about bringing creativity to code.
-
-## 🌐 Web Development Journey:
-
-Currently deep-diving into full-stack web development, I'm driven by a fascination for coding and programming. More than just codes, I am passionate about creating digital landscapes that perform, captivate and connect.
+Trained in developing full-stack web applications, I've effectively combined front- and back-end technologies in developing my first full stack web application. This has allowed me to bring theoretical knowledge into practical use, utilizing JavaScript, React, Python, HTML, and CSS amongst others. Besides software development, I have experience in the field of Marketing Automation and CRM, and WordPress, which has led me to gain advanced knowledge in the realms of SEO, Email Marketing, Marketing Automation, and Customer Relationship Management softwares. 
 
 ## 🌎 Multilingual Background:
 
-Proficient in English, German, and Spanish, with Italian as my mother tongue, I love learning new languages, as well as connecting with other cultures. I bring my international perspective into the world of technology and business.
+Proficient in English, German, and Spanish, with Italian as my mother tongue, I love learning new languages, as well as connecting with other cultures. I bring my international perspective and open mind into the world of technology and business.
 
 ## 🍲 Food Blogging:
 
-I am a passionate food blogger. On my self-created website, I share with the online world my passion for healthy eating. My blogging experience has allowed me to express my creativity while gaining knowledge and first-hand experience in website development, WordPress, digital marketing, SEO, and social media marketing.
+I am a passionate food blogger. On my self-created website, I share with the online world my passion for healthy eating. Started in 2020, my blogging experience has allowed me to express my creativity while gaining knowledge and first-hand experience in website development, WordPress, digital marketing, SEO, and social media marketing.
 
 ## 💡 Curiosities & Hobbies:
 
